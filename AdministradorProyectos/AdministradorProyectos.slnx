@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../AdministradorProyectosCliente/AdministradorProyectosCliente.csproj" />
+  <Project Path="../Contrato/Contrato.csproj" />
+  <Project Path="AdministradorProyectos.csproj" />
+</Solution>
